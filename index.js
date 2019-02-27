@@ -6,3 +6,7 @@
   res = customerName.toUpperCase();
   return res;
  }
+ 
+ function upperCaseCustomerName(){
+  return customerName = customerName.toUpperCase();
+}
