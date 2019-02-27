@@ -2,4 +2,6 @@
  
  customerName = 'bob'
  
- upperCaseCustomerName()
+ function upperCaseCustomerName() {
+   customerName
+ }
