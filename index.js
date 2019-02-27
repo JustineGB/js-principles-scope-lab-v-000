@@ -7,5 +7,5 @@
 }
 
  function setBestCustomer (){
-  return customerName = !customerName;
+  return customerName = 'not bob';
 }
