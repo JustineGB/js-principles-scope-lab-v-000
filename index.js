@@ -7,7 +7,7 @@
 }
 
  function setBestCustomer (){
-   var bestCustomer = 'not bob';
+   let bestCustomer = 'not bob';
    return bestCustomer;
 }
 
